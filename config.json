@@ -1,0 +1,6 @@
+{
+	"port": 8000,
+	"baseUrl": "http://localhost:",
+	"serverUrl": "https://magicmirror-sg.herokuapp.com/",
+	"Weather_API_Key" : "265460e4da92ab530fa98e9365998112"
+}
